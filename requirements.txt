@@ -9,3 +9,5 @@ scikit-learn
 Lotte==1.3.4
 ifcopenshell
 streamlit-option-menu==0.3.2
+requests
+streamlit-lottie
