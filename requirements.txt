@@ -12,5 +12,3 @@ streamlit-option-menu==0.3.2
 requests
 streamlit-lottie
 matplotlib 3.7.1
-IFC.js
-Three.js
