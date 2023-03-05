@@ -11,4 +11,3 @@ ifcopenshell 0.7.0.230218
 streamlit-option-menu==0.3.2
 requests
 streamlit-lottie
-matplotlib 3.7.1
